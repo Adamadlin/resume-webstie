@@ -254,6 +254,14 @@ grid-template-columns: repeat(4,1fr);
     width: 20px;
 }
 
+.projects a{
+     display: block;
+     
+    color: #848c90;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 
 @media (max-width:1000px) {
     .container{
